@@ -1,4 +1,4 @@
-# ATM System Repository
+# ATM System 
 
 Welcome to the ATM System project! This console application allows users to manage their bank accounts efficiently, providing functionalities for quick withdrawals, normal withdrawals, deposits, and balance inquiries. The application is developed using object-oriented programming principles in C++.
 
