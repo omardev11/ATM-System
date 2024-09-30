@@ -1,0 +1,9 @@
+﻿  Project 2 Atm system.cpp
+E:\apps\c++\My Projects\ATM System\Project 2 Atm system\MyBankLib.h(69,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Project%202%20Atm%20system.cpp')
+  
+E:\apps\c++\My Projects\ATM System\Project 2 Atm system\MyBankLib.h(591,1): warning C4715: 'BankExtension1::TakeMoneyFromBalance': not all control paths return a value
+E:\apps\c++\My Projects\ATM System\Project 2 Atm system\MyBankLib.h(1398,1): warning C4715: 'AtmSystem::TakeMoneyFromClientBalance': not all control paths return a value
+E:\apps\c++\My Projects\ATM System\Project 2 Atm system\MyBankLib.h(1605,1): warning C4715: 'AtmSystem::AddMoneyFromClientBalance': not all control paths return a value
+E:\apps\c++\My Projects\ATM System\Project 2 Atm system\MyBankLib.h(532,1): warning C4715: 'BankExtension1::AddMoneyToBalance': not all control paths return a value
+  Project 2 Atm system.vcxproj -> E:\apps\c++\My Projects\ATM System\x64\Debug\Project 2 Atm system.exe
